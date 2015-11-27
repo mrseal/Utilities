@@ -8,9 +8,6 @@
 .settings
 .metadata
 
-# Packages
-*.jar
-
 # Maven build files
 target
 reports
