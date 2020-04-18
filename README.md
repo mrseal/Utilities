@@ -9,3 +9,12 @@ public class HelloWorld {
 
 }
 ```
+
+```Python
+public class HelloWorld {
+
+   public void sayHello() {
+   }
+
+}
+```
